@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">屏净</string>
+    <string name="accessibility_description">屏净在你明确开启防护后，读取其他应用当前界面的可访问按钮文字，仅在匹配“跳过广告”等规则时执行点击。默认跳过支付、安装、权限及系统设置等敏感界面。所有识别和记录只在本机处理，不上传内容。可随时在系统无障碍设置中关闭。</string>
+</resources>
